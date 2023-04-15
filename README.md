@@ -1,1 +1,0 @@
-# <a href="https://kamiltrzmiel.github.io/goit-js-hw-10/">Visit site JS-HW-10</a>
