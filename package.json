@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-10",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://kamiltrzmiel.github.io/goit-js-hw-10",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamiltrzmiel/goit-js-hw-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamiltrzmiel/goit-js-hw-10/issues"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  }
+}
