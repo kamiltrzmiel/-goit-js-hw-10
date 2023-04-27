@@ -36,7 +36,7 @@ searchEl.addEventListener(
     if (countries.length === 1) {
       clrScreen();
       countryInfoEl.innerHTML = `
-      <li><img height="32" src="${country.flags.svg}" />${country.name.common}</li>
+      <li><img height="32" src="${countries[0].flags.svg}" />${countries[0].name.common}</li>
       <p>Capital: ${countries[0].capital}</p>
       <p>Population: ${countries[0].population}</p>
       <p>Languages: ${Object.values(countries[0].languages).join(', ')}</p>`;
