@@ -15,31 +15,38 @@ const clrScreen = () => {
 searchEl.addEventListener(
   'input',
   _.debounce(async e => {
-    const countries = await fetchCountries(e.target.value.trim());
+    try {
+      const countryName = e.target.value.trim();
+      const countries = await fetchCountries(countryName);
 
-    if (countries.length === 0) {
-      clrScreen();
-    }
+      if (countryName === '') {
+        return;
+      }
 
-    if (countries.length > 10) {
-      clrScreen();
-      Notiflix.Notify.info('Too many matches found. Please enter a more specific name.');
-    } else if (countries.length >= 2 && countries.length <= 10) {
-      clrScreen();
-      countryListEl.innerHTML = countries
-        .map(
-          country => `<li><img height="32" src="${country.flags.svg}" />${country.name.common}</li>`
-        )
-        .join('');
-    }
+      if (countries.length > 10) {
+        clrScreen();
+        Notiflix.Notify.info('Too many matches found. Please enter a more specific name.');
+      } else if (countries.length >= 2 && countries.length <= 10) {
+        clrScreen();
+        countryListEl.innerHTML = countries
+          .map(
+            country =>
+              `<li><img height="32" src="${country.flags.svg}" />${country.name.common}</li>`
+          )
+          .join('');
+      }
 
-    if (countries.length === 1) {
-      clrScreen();
-      countryInfoEl.innerHTML = `
-      <li><img height="32" src="${countries[0].flags.svg}" />${countries[0].name.common}</li>
-      <p>Capital: ${countries[0].capital}</p>
-      <p>Population: ${countries[0].population}</p>
-      <p>Languages: ${Object.values(countries[0].languages).join(', ')}</p>`;
+      if (countries.length === 1) {
+        clrScreen();
+        countryInfoEl.innerHTML = `
+        <p><img height="64" src="${countries[0].flags.svg}" /></p>
+        <p>${countries[0].name.common}</p>
+        <p>Capital: ${countries[0].capital}</p>
+        <p>Population: ${countries[0].population}</p>
+        <p>Languages: ${Object.values(countries[0].languages).join(', ')}</p>`;
+      }
+    } catch (error) {
+      Notiflix.Notify.failure('Oops, there is no country with that name');
     }
   }, DEBOUNCE_DELAY)
 );
