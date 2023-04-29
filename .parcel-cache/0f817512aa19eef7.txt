@@ -67,7 +67,7 @@
 90C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lodash\fp\dropRight.js133270778477810496 0
 79C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@jridgewell133270778450063393 1
 147C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133270778465503384 0
-67C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\index.js133271443855585813 0
+67C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\index.js133272376793321072 0
 104C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\node-addon-api\tools\clang-format.js133270778466211492 0
 82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\clone\clone.js133270778462132412 0
 117C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist133270778472165584 1
@@ -86,7 +86,7 @@
 103C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@parcel\utils\src\parseCSSImport.js133270778471258001 0
 88C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lodash\fp\setWith.js133270778481650223 0
 91C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lodash\fp\forInRight.js133270778478578432 0
-59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist133271448286725976 1
+59C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist133272376793595353 1
 102C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\svgo\plugins\convertShapeToPath.js133270778467687548 0
 92C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\css-select\lib\sort.d.ts133270778472803870 0
 74C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\braces133270778462341837 1
@@ -118,7 +118,7 @@
 147C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\embed2\file3.txt133270778471636989 0
 110C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lightningcss\node\browserslistToTargets.js133270778463807926 0
 117C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133270778472335127 0
-73C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\css\styles.css133271448286576381 0
+73C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\css\styles.css133271448656009485 0
 134C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\csso\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133270778466341145 0
 72C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\package-lock.json133270778486966012 0
 143C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133270778470769316 0
@@ -167,7 +167,7 @@
 62C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\css133270765654636965 1
 94C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@nodelib\fs.stat\README.md133270778465353788 0
 90C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\lodash\_baseIsMatch.js133270778471816509 0
-76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\fetchCountries.js133270765654646937 0
+76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\src\fetchCountries.js133272375004144321 0
 109C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\geolocation.js133270778477381632 0
 85C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\term-size\license133270778461214860 0
 76C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\htmlnano133270778472285259 1
@@ -4923,7 +4923,7 @@
 106C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133270778469612400 0
 104C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\@swc\helpers\lib\_define_property.js133270778470091123 0
 112C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133270778470440189 0
-78C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.77a9bc14.css133271448286706036 0
+78C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.77a9bc14.css133272365049490043 0
 101C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\css-tree\cjs\syntax\node\Hash.cjs133270778471018639 0
 121C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133270778478418864 0
 107C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133270778471148294 0
@@ -7354,8 +7354,8 @@
 81C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\.bin\svgo.cmd133270778483654860 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\.bin\terser.cmd133270778483654860 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\node_modules\.bin\terser.ps1133270778483654860 0
-82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.77a9bc14.css.map133271448286716013 0
-77C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.975ef6c8.js133271444602477349 0
-81C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.975ef6c8.js.map133271444602497299 0
+82C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.77a9bc14.css.map133272365049539923 0
+77C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.975ef6c8.js133272376793575399 0
+81C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.975ef6c8.js.map133272376793595353 0
 70C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\dist\index.html133271420590999532 0
 83C:\Users\ktrzm\OneDrive\Dokumenty\GitHub\goit-js-hw-10\.github\workflows\deploy.yml133270765651684841 0
