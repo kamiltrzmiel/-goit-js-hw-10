@@ -20,6 +20,9 @@ searchEl.addEventListener(
     const countries = await fetchCountries(countryName);
 
     if (countryName === '') {
+      clrScreen();
+      document.body.style.backgroundImage =
+        "url('https://source.unsplash.com/1600x900/?landscape')";
       return;
     }
 
